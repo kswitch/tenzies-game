@@ -6,4 +6,4 @@ A game of Tenzies built using Vite and React.
 
 - dist folder should be used as index folder for hosting project
 
-https://kswitch-tenzies-game.netlify.app
+https://kswitch-tenzies-game-app.netlify.app
